@@ -1,0 +1,29 @@
+#area {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#area article {
+    border: 1px solid;
+    cursor: pointer;
+    max-width: 40%;
+    padding: 10px;
+    margin: 10px;
+}
+
+.infos {
+    display: flex;
+}
+
+.info {
+    display: flex;
+    padding: 5px;
+
+}
+
+#detail article{
+    border: 1px solid;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(209, 207, 207);
+}
